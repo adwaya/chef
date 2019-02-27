@@ -1,5 +1,5 @@
 directory '/root' do
  user 'root'
  group 'root'
- mode '0700'
+ mode '0400'
 end
